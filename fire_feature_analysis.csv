@@ -1,0 +1,44 @@
+Feature,Number of Fires
+Wind Speed (0-9 km/h),13665
+Wind Speed (10-18 km/h),7254
+Wind Speed (18-27 km/h),1940
+Wind Speed (>45 km/h),116
+Wind Direction (West),5397
+Wind Direction (Calm),3369
+Wind Direction (Southwest),2891
+Wind Direction (Northwest),2826
+Wind Direction (Southeast),2594
+Fire Type (Surface),17523
+Fire Type (Ground),5323
+Fire Type (Crown),1086
+Fire Spread Rate (0-9.1 m/min),23323
+Fire Spread Rate (10-30 m/min),393
+Fire Spread Rate (>50 m/min),13
+Weather (Clear),11069
+Weather (Cloudy),8544
+Weather (CB Wet),1569
+Weather (CB Dry),1498
+Weather (Rainshowers),1001
+Relative Humidity (20-40%),10719
+Relative Humidity (40-60%),7288
+Relative Humidity (<10%),83
+Relative Humidity (>80%),1274
+Temperature (20-28°C),10278
+Temperature (10-20°C),8004
+Temperature (3-10°C),3176
+Temperature (>36°C),18
+C2,6785
+O1a,4191
+M2,2367
+O1b,2005
+C3,715
+M1,705
+C1,586
+S1,510
+S2,484
+D1,470
+C4,146
+C7,22
+M3,3
+C6,2
+M4,1
