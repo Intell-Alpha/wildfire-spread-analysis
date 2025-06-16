@@ -1,0 +1,7 @@
+services:
+  - type: web
+    name: wildfire-dashboard
+    env: python
+    buildCommand: pip install -r requirements.txt
+    startCommand: gunicorn wildfireTerrainAnimationSteps:app.server
+    runtime: python-3.10
