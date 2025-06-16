@@ -389,4 +389,5 @@ def generate_2d_simulation_figure(frames):
 
 # Run
 if __name__ == '__main__':
-    app.run(debug=True)
+    # app.run(debug=True)
+    server = app.server
