@@ -30,9 +30,9 @@ This dashboard is live on: https://wildfire-spread-analysis.onrender.com/
 ## 📸 Screenshots
 
 <p align="center">
-  <img src="screenshots/dashboard-light.png" alt="Light Mode" width="600"/>
+  <img src="screenshots/light_SS.png" alt="Light Mode" width="600"/>
   <br/>
-  <img src="screenshots/dashboard-dark.png" alt="Dark Mode" width="600"/>
+  <img src="screenshots/dark_SS.png" alt="Dark Mode" width="600"/>
 </p>
 
 ---
